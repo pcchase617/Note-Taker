@@ -5,10 +5,11 @@ This is a Note taking Software that allows you to save your documentation
 
 Repository: https://github.com/pcchase617/Note-Taker
 
-Video Link:
+Video Link: https://drive.google.com/file/d/1ZU0xlTWjKCUU5cg6W1rsiOKS3sLWWnql/view
 
 Site Preview:
 
+![alt text](https://raw.githubusercontent.com/pcchase617/Note-Taker/main/note%20taking.PNG)
 
 Requirements:
 
